@@ -2,7 +2,7 @@
 Developed by [Alok Patel](https://github.com/alok2608)
 
 
-## 📽 Demo
+
 
 [![Watch Demo](media/demo-thumbnail.png)](demo.mp4)
 
