@@ -2,9 +2,10 @@
 Developed by [Alok Patel](https://github.com/alok2608)
 ## 📽 Demo
 
-<video src="demo.mp4" width="640" controls muted loop>
-  Your browser does not support the video tag.
-</video>
+## 📽 Demo
+
+[![Watch Demo](media/demo-thumbnail.png)](demo.mp4)
+
 
 
 This project is a complete real-time vehicle detection and license plate recognition system, developed using cutting-edge deep learning techniques.
