@@ -6,7 +6,7 @@ Developed by [Alok Patel](https://github.com/alok2608)
 
 ## 📽 Demo
 
-Click the image below to watch the demo video of PlatePatrol in action:
+Click the image below to watch the demo video of RoadEye  in action:
 
 [![Watch Demo](media/demo-thumbnail.png)](https://raw.githubusercontent.com/alok2608/vehicle-license-plate-detection/main/demo.mp4)
 
