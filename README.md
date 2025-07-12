@@ -1,6 +1,6 @@
 # 🚗 PlatePatrol – Real-Time Vehicle & License Plate Recognition  
 Developed by [Alok Patel](https://github.com/alok2608)
-## 📽 Demo
+
 
 ## 📽 Demo
 
