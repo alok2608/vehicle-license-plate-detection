@@ -10,7 +10,7 @@ Click the image below to watch the demo video of RoadEye  in action:
 
 
 
-[![Watch Demo](media/demo_video.gif)](https://github.com/alok2608/vehicle-license-plate-detection/raw/main/demo.mp4)
+[![Watch Demo](demo_video.gif)](demo.mp4)
 *Click the image to watch the full demo video*
 
 
