@@ -4,14 +4,10 @@ Developed by [Alok Patel](https://github.com/alok2608)
 
 
 
-## 📽 Demo
+## 📽 Demo Video
 
-Click the image below to watch the demo video of RoadEye  in action:
+[Watch the Demo Video](demo.mp4)
 
-
-
-[![Watch Demo](demo_video.gif)](demo.mp4)
-*Click the image to watch the full demo video*
 
 
 
