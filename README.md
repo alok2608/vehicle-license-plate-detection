@@ -6,7 +6,7 @@ Developed by [Alok Patel](https://github.com/alok2608)
 
 ## 📽 Demo Video
 
-[Watch the Demo Video](demo.mp4)
+[![Watch the Demo Video](demo_video.gif)]
 
 
 
